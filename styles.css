@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: rgb(49, 168, 128);
+    text-align: center;
+    font-size: 28px;
+}
+
+li {
+    font-size: 22px;
+}
